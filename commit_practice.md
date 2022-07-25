@@ -30,3 +30,7 @@
    - 이유 : Commits가 아니라 .git directory(Repository)입니다
 
  
+
+5. Commit ID는 중복 가능하다. (맞으면 O, 틀리면 X)
+   - 답 : x
+   - 이유 : commit ID는 중복 불가능한 해쉬값을 가진다 / 중복이 되면 정확한 로그 확인이 어렵기 때문
