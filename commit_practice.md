@@ -24,4 +24,9 @@
    - 이유 : 마크다운에서 각각의 역할이 있기 때문 / 서식으로 정한 것이기 때문
 
 
+
+4. Git의 3가지 공간에는 Working Directory, Staging Area, Commits이 있다. (맞으면 O, 틀리면 X)
+   - 답 : x
+   - 이유 : Commits가 아니라 .git directory(Repository)입니다
+
  
